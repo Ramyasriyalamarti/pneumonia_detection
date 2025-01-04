@@ -1,7 +1,4 @@
 # pneumonia_detection
-
-Here's a sample README.md for your GitHub repository, explaining your X-ray Pneumonia Detection Project with severity classification, web integration, and medication suggestions:
-
 X-Ray Pneumonia Detection with Severity Classification
 This project uses a deep learning model to classify chest X-ray images into severity levels of pneumonia (Normal, Mild, Moderate, Severe) and provides medication recommendations based on the diagnosis. The project also includes a web-based interface for uploading X-ray images and viewing predictions.
 
